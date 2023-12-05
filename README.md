@@ -22,6 +22,16 @@ git config --global user.email "ВАШ EMAIL"
 * [Ссылка на параграф](https://docs.github.com/ru/get-started/quickstart/set-up-git#setting-up-git)
 
 
+### Основные функции
+
+#### Репозитории
+
+#### Коммиты
+
+#### Ветвление
+
+* [Практика по ветвлению в Git](https://learngitbranching.js.org/?locale=ru_RU)
+
 ### Курсы
 
 * [Git на Слёрм](https://slurm.io/git) - бесплатный
